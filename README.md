@@ -3,6 +3,8 @@
 
 ## 💬 Ask me about
 - Frontend web development (React.js, Next.js TypeScript)
+- Computer assembly
+- Photoshop
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, LeetCode
@@ -18,11 +20,13 @@
 ## 📚 Learning
 - Node.js
 - Express
-- 
 
-## 🎵 Spotify status
+
+
 
 <!-- 
+## 🎵 Spotify status
+
 <a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
   <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
