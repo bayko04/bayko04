@@ -13,8 +13,6 @@
 - Play videogames
 - etc...
 
----
-
 ## 🛠 Technology:
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; width: 256px;">
