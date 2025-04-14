@@ -13,6 +13,7 @@
 - Play videogames
 - etc...
 
+---
 
 ## 🛠 Technology:
 
